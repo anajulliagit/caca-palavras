@@ -1,0 +1,12 @@
+.td,.tr{
+    border:2px solid #714848;
+}
+
+.body{
+    background-color: aqua;
+}
+
+.table{
+    width: 500px;
+    height: 500px;
+}
